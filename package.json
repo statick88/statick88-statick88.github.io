@@ -16,5 +16,7 @@
     "astro": "4.3.2",
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3"
-  }
+  },
+  "packageManager": "pnpm@latest" // Añadir esta línea para especificar pnpm
 }
+
